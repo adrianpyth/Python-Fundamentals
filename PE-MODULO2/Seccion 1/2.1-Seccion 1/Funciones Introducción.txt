@@ -1,0 +1,9 @@
+Las funciones tienen dos posibles resultados:
+    Efecto
+    resultado
+
+Las funciones deben de llevar () despues del nombre de la funcion para diferenciarlas del resto: ejemplo suma()
+
+La sintaxis de Python es bastante específica en esta área. 
+A diferencia de la mayoría de los lenguajes de programación, Python requiere que no haya más de una instrucción por línea.
+
