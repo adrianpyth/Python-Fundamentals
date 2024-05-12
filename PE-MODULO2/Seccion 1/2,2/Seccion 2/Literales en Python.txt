@@ -1,0 +1,7 @@
+print("2")
+print(2)
+
+La función print() los muestra exactamente de la misma manera - Sin embargo, internamente, la memoria de la computadora los almacena de dos maneras completamente diferentes -
+ La cadena existe como eso solo una cadena - una serie de letras.
+
+El número es convertido a una representación máquina (una serie de bits). La función print() es capaz de mostrar ambos en una forma legible para humanos.
